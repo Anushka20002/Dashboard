@@ -1,4 +1,5 @@
 # Dashboard....
+HTML, CSS, JavaScript is written in HTML file.
 
 I made this project during my internship as a full stack developer.
 
